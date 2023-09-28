@@ -125,5 +125,9 @@ h2 {
   vertical-align: middle;
   padding: 0 20px;
 }
+.feature-bbb {
+  padding-top: 75px;
+  background-image: url("img/bbb.svg");
+}
 
 
